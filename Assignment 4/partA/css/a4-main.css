@@ -1,0 +1,64 @@
+/* Place all of your CSS Code in this file */
+
+body{
+    color: black;
+}
+
+nav, footer {
+    background-color:black; 
+    color: white;
+}
+
+header {
+    background-color:bisque;
+    padding: 10px 20px 10px 20px;
+
+}
+
+header h1.app-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+}
+
+div.main-table-container {
+    max-height: 500%;
+    overflow-y: scroll;
+    border: 3px solid gray;
+}
+
+table.main-table-top th{
+    border: 3px solid gray;
+    padding: 7px 7px;
+    font-size: 10pt;
+    text-shadow: 2px 2px 2px gray;
+    
+   
+}
+
+table.main-table p span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+/********************************************************************************* 
+*
+* WEB222 – Assignment #4a
+*
+* I declare that this assignment is my own work in accordance with Seneca 
+* Academic Policy. No part of this assignment has been copied manually or 
+* electronically from any other source (including web sites) or distributed to 
+* other students. 
+* 
+* Name: David Albuquerque Lima Student ID: 110244175 Date: July 14, 2018
+* 
+********************************************************************************/
